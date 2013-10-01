@@ -45,7 +45,7 @@ let g:pymode_rope=0 "currently not needed"
 
 let g:jedi#auto_vim_configuration = 0 "don't fucking overwrite my settings
 let g:jedi#popup_on_dot = 0 "do not automatically open completion window
-let g:jedi#show_function_definition = 0
+let g:jedi#show_call_signatures = 0
 
 let g:NERDTreeWinPos = "right" "self explaining
 
