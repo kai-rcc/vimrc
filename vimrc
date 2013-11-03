@@ -52,7 +52,7 @@ let g:NERDTreeWinPos = "right" "self explaining
 let g:clang_use_library = 1 "uses clang library instead of executables which is way faster
 
 set background=dark
-colors peaksea
+colors wombat256mod
 set completeopt-=preview
 
 set guioptions-=m "removes menu
