@@ -51,6 +51,9 @@ let g:NERDTreeWinPos = "right" "self explaining
 
 let g:clang_use_library = 1 "uses clang library instead of executables which is way faster
 
+let g:LatexBox_latexmk_options = "-pdfps"
+let g:LatexBox_latexmk_preview_continuously=1
+
 set background=dark
 colors wombat256mod
 set completeopt-=preview
